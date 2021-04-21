@@ -108,7 +108,7 @@ In the `api` folder we mocked a real API endpoint. When you load the initial sta
 ### React components (step 1)
 
 > :warning: Note that for this assignment, you should either create branch in this repo, or fork the repo, and send us the link.
-**Every step should be either a separate commit or a separate branch**: We want to see how the code evolves, not just one commit with everything implemented. You can either commit to main or create separate branches for the steps!
+**Every step should be either a separate commit or a separate branch**: We want to see how the code evolves, not just one commit with everything implemented.
 
 Define the following domains in the `components` folder:
 - Album
