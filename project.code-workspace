@@ -13,6 +13,7 @@
 		"esbenp.prettier-vscode",
 		"christian-kohler.npm-intellisense",
 		"dbaeumer.vscode-eslint",
+		"msjsdiag.debugger-for-chrome"
 	  ]
 	},
 	"settings": {
